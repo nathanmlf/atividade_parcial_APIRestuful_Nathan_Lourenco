@@ -6,7 +6,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou `<JAVA 17.0.16 / Maven 3.9.11 / Postman/Insomnia / IDE Java (VSCode, Eclipse, IntelliJ, etc.>`
+- Você instalou `<JAVA 17.0.16 / Maven 3.9.11 / Postman/Insomnia / IDE Java (VSCode, Eclipse, IntelliJ, etc./>`
 
 ## ☕ Usando o SerraMusic
 
